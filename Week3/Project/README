@@ -1,0 +1,2 @@
+The original uiuc/catch/catch.hpp in graph_search_starter_files.zip will cause fatal compile error.
+Should be replaced with the one in the same folder, which is copied from the cousera forum.
